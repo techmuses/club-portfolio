@@ -153,15 +153,15 @@ footer .credit {
   font-size: .75em;
 }
 
-/* footer ul {
+footer ul {
   list-style-type: none;
   margin: 0;
   padding: 0;
-} */
+}
 
-/* footer ul li {
+footer ul li {
   display: inline-block;
-} */
+}
 
 
 .clearfix {
@@ -212,4 +212,19 @@ footer .credit {
     margin: 40px auto;
   }
 
-}
+  .fa {
+    padding: 20px;
+    font-size: 30px;
+    width: 30px;
+    text-align: center;
+    text-decoration: none;
+    margin: 5px 2px;
+    border-radius: 50%;
+  }
+  
+  
+  
+  
+  }
+  
+
