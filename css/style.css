@@ -64,13 +64,8 @@ a:hover {
 
 header {
   text-align: center;
-<<<<<<< HEAD
   background: url('https://images.unsplash.com/photo-1498084393753-b411b2d26b34?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1489&q=80');
   background-size: cover; 
-=======
-  background: url('https://placeimg.com/1000/989/arch') no-repeat top center;
-  background-size: cover;
->>>>>>> f2c21399da2e1c42eaaff56ccb1475e91c99c9c5
   overflow: hidden;
   padding-top: 60px;
 }
