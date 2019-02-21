@@ -48,6 +48,8 @@ a:hover {
   display: block;
   margin-right: auto;
   color: white;
+  font-size: 4vh;
+
 }
 
 .nav li {
