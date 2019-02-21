@@ -153,15 +153,15 @@ footer .credit {
   font-size: .75em;
 }
 
-footer ul {
+/* footer ul {
   list-style-type: none;
   margin: 0;
   padding: 0;
-}
+} */
 
-footer ul li {
+/* footer ul li {
   display: inline-block;
-}
+} */
 
 
 .clearfix {
