@@ -149,23 +149,7 @@ footer {
 }
 
 footer .credit {
-  top: -8px;
   font-size: .75em;
-}
-
-footer ul {
-  list-style-type: none;
-  margin: 0;
-  padding: 0;
-}
-
-footer ul li {
-  display: inline-block;
-}
-
-
-.clearfix {
-  clear: both;
 }
 
 .madewithlove {
