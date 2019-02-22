@@ -162,6 +162,11 @@ footer .credit {
 
 }
 
+.fa {
+  padding: 20px;
+  width: 30px;
+}
+
 /* Styles for larger screens */
 @media screen and (min-width: 720px) {
 
@@ -198,12 +203,7 @@ footer .credit {
 
   .fa {
     padding: 20px;
-    font-size: 30px;
     width: 30px;
-    text-align: center;
-    text-decoration: none;
-    margin: 5px 2px;
-    border-radius: 50%;
   }
   
   
