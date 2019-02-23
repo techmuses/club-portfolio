@@ -1,6 +1,6 @@
 /* Global Layout Set-up */
 * {
-  box-sizing: border-box;
+   box-sizing: border-box; /*width are height are not affected by border and padding */
 }
 
 body {
@@ -37,15 +37,15 @@ a:hover {
 .nav {
   display: flex;
   justify-content: space-around;
-  font-weight: 700;
-  list-style-type: none;
-  margin: 0 auto;
+  font-weight: 700;  /*this is use to add bold text or light text  */
+  /* list-style-type: none; */
+  margin: 0 auto;/*to eqally ccentered the element from right and left*/
   padding: 0;
 }
 
 .nav .name {
   font-family: 'Sofia';
-  display: block;
+  display: block; /*displatys content in different line*/
   margin-right: auto;
   color: white;
   font-size: 3vh;
@@ -57,11 +57,11 @@ a:hover {
 }
 
 .nav a {
-  transition: all .5s;
+  transition: all .5s;/*the transition is related to the hover effect*/
   color: white
 }
 
-.nav a:hover {
+.nav a:hover {/*all depends on the time of the transition*/
   color: #fbed10
 }
 
@@ -74,7 +74,7 @@ header {
 }
 
 header {
-  line-height: 1.5;
+  line-height: 1.5; /*adds the spaace between the 2 lines*/
 }
 
 header .profile-image {
@@ -95,11 +95,11 @@ header .profile-image:hover {
   color: black;
   padding: 10px;
   border-radius: 5px;
-  display: table;
+  display: table;/* only applicable to the around of text*/
   margin: 10px auto;
 }
 
-.location {
+.description {
   background-color: #222;
   color: yellow;
 }
@@ -131,7 +131,7 @@ ul.skills {
 
 .skills li {
   border-radius: 6px;
-  display: inline-block;
+  display: inline-block;/* means in a same link*/
   background: #ff9904;
   color: white;
   padding: 5px 10px;
