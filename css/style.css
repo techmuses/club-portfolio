@@ -19,6 +19,8 @@ a {
   color: #272727;
 }
 
+
+
 a:hover {
   color: #ff60f0de;
 }
@@ -71,11 +73,9 @@ header {
   background-size: cover; 
   overflow: hidden;
   padding-top: 60px;
+  line-height: 1.5;
 }
 
-header {
-  line-height: 1.5; /*adds the spaace between the 2 lines*/
-}
 
 header .profile-image {
   margin-top: 50px;
